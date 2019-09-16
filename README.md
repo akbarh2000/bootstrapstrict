@@ -1,0 +1,2 @@
+# bootstrapstrict
+Page By Bootstrap
